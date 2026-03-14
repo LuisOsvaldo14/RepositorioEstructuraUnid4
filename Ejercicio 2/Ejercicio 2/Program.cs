@@ -1,5 +1,5 @@
 ﻿using System;
-class Pasies
+class Productos
 {
     static void Main()
     {
